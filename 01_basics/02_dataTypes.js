@@ -17,4 +17,4 @@ let isLoggedIn = false
 
 // object
 
-console.log(typeof null);
+console.log(typeof isLoggedIn);
